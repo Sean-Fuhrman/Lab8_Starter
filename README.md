@@ -1,4 +1,8 @@
 # Lab 8 - Starter
+
+Partners: Sean Fuhrman
+
+## Check Your Understanding
 1. 
 Answer: Within a Github action that runs whenever code is pushed 
 Explanation: This ensures automatic testing whenever code it pushed to the github, so it requires no extra steps from the developer and ensures github-level code is tested
